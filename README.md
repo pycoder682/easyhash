@@ -1,4 +1,4 @@
-# easyhash
+# HashMod
 A replacement for the hashlib module in Python - it shortens the code for hash encryption and cracking to one line from 40 before 
 This is the best choice for coders who want to save time and effort. Just download the files and type 'import hashcrack' into the script area or in the interactive shell.
 Run it, and you will immediately get a hash cracking program that can crack Md5, SHA1, SHA224, SHA256 and SHA512. Just type in the hashed text and then the type of hash it is.
