@@ -5,4 +5,4 @@ Run it, and you will immediately get a hash cracking program that can crack Md5,
 Hashcrack will do the rest. And if you want to encrypt something as a hash, just type 'import md5encrypt' into the script area or the interactive shell.
 Run it and you will get an md5 encryption program.
 Just type 'import sha1encrypt' for sha1 encryption, 'import sha224encrypt' for sha224 encryption,
-'import sha256encrypt' for sha256 encryption, 'import sha512encrypt' for sha512 encryption, and 'import sha384encrypt' for sha384 encryption. Download and enjoy!
+'import sha256encrypt' for sha256 encryption, 'import sha512encrypt' for sha512 encryption, and 'import sha384encrypt' for sha384 encryption. Make sure that the easyhash modules are stored in the Python folder where your programs are stored by default so that the import statements work. Download and enjoy!
